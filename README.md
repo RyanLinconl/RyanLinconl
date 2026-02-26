@@ -57,7 +57,7 @@ Sou um desenvolvedor focado em construir soluções robustas e escaláveis. Atua
   <a href="mailto:oryanlira@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ryan-linconl/">
+  <a href="https://www.linkedin.com/in/o-ryan-lira/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
